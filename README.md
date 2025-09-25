@@ -68,7 +68,7 @@ This project demonstrates a **production-like full-stack architecture** with mod
 
 - **Live App (Patients):** [[https://care-plus-pink.vercel.app/](https://care-plus-pink.vercel.app/)]
 - **Live App (Doctors/Admins):** [[https://care-plus-v77p.vercel.app/](https://care-plus-v77p.vercel.app/)]
-- **GitHub Repo:** [[your CarePlus GitHub link here](https://github.com/mukhlisbek4535/CarePlus)]
+- **GitHub Repo:** [[https://github.com/mukhlisbek4535/CarePlus](https://github.com/mukhlisbek4535/CarePlus)]
 
 ### 🔑 Demo Credentials
 
